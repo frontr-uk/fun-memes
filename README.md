@@ -7,6 +7,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 
 #Links
-[Bass SCSS](https://www.npmjs.com/package/basscss-sass)
-[Memes API](https://api.imgflip.com/get_memes)
+[Bass SCSS](https://www.npmjs.com/package/basscss-sass) <br />
+[Memes API](https://api.imgflip.com/get_memes) <br />
 
