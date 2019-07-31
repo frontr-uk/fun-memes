@@ -1,0 +1,8 @@
+
+Here a list of memes
+<div class="flex flex-wrap">
+    <app-meme 
+    *ngFor="let item of (memes$ | async).data.memes"
+    class="col-4"
+    [meme]="item"></app-meme>
+</div>
